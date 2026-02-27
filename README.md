@@ -11,6 +11,7 @@ Cada branca conté un projecte independent. La branca `main` serveix com a índe
 | `main` | README general i índex de projectes |
 | `en-revisio` | Projecte 1 — Sistema de Triatge de Figures Geomètriques |
 | `hobby-mania` | Projecte 2 — Sistema de Triatge de Peces (Hobby Mania) |
+| `reconeixement-formes` | Projecte 3 — Reconeixement de Formes i Realitat Augmentada Bàsica |
 
 > Les branques s'aniran afegint a mesura que s'avanci en l'assignatura.
 
@@ -83,10 +84,43 @@ L'aplicació permet carregar una imatge, processar-la mitjançant visió per com
 
 ---
 
+### 📌 Projecte 3 — Reconeixement de Formes i Realitat Augmentada Bàsica (`reconeixement-formes`)
+Aplicació d'escriptori desenvolupada en **C# WinForms** que utilitza la càmera en temps real per identificar formes geomètriques i les etiqueta directament sobre el vídeo.
+
+#### Descripció
+L'aplicació captura el flux de la càmera, processa cada frame mitjançant visió per computador per detectar formes geomètriques (triangles, rectangles i cercles), i superposa el nom de la figura detectada sobre la imatge en temps real, simulant una experiència de Realitat Augmentada bàsica.
+
+#### Funcionalitats
+- **Iniciar/Aturar càmera** — Control del flux de vídeo en temps real.
+- **Detecció en temps real** — Identifica triangles, rectangles i cercles mostrats davant la càmera.
+- **Realitat Augmentada bàsica** — Dibuixa el contorn de la figura detectada i escriu el seu nom al centre directament sobre el vídeo.
+- **Mostrar contorns** — CheckBox per activar/desactivar la visualització del processament intern (vores Canny).
+- **Label de resultat** — Indica en tot moment quina és l'última forma reconeguda.
+
+#### Tecnologies i llibreries
+- **C# / WinForms** (.NET Framework 4.7.2)
+- **EmguCV** — Captura de càmera, processament d'imatge i detecció de contorns
+- **Emgu.CV.Bitmap** — Conversió de frames a Bitmap per mostrar al PictureBox
+
+#### Com funciona per dins
+1. Captura de frames via `VideoCapture` i event `ImageGrabbed`
+2. Conversió del frame a escala de grisos
+3. Suavitzat amb filtre Gaussià (5×5)
+4. Detecció de vores amb l'algoritme Canny (100/60)
+5. Detecció de contorns amb `FindContours`
+6. Aproximació poligonal (ApproxPolyDP, epsilon 0.04):
+   - 3 vèrtexs → Triangle
+   - 4 vèrtexs → Rectangle
+   - Més de 6 vèrtexs → Cercle
+7. Els contorns amb àrea inferior a 1000 px² es descarten com a soroll
+8. Superposició del nom i contorn sobre la imatge original en color
+
+---
+
 ## 🛠️ Requisits generals
 - Visual Studio 2022
-- .NET 8.0
-- Paquets NuGet: `Emgu.CV`, `Emgu.CV.runtime.windows`, `Emgu.CV.Bitmap`, `PDFsharp 1.50`
+- .NET Framework 4.7.2 / .NET 8.0
+- Paquets NuGet: `Emgu.CV`, `Emgu.CV.runtime.windows`, `Emgu.CV.Bitmap`, `iTextSharp`, `PDFsharp 1.50`
 
 ---
 
