@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|f:\\users\\alan\\desktop\\c#\\practicabase\\practicabase\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|f:\\users\\alan\\desktop\\c#\\practicabase\\practicabase\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|f:\\users\\alan\\desktop\\c#\\practicabase\\practicabase\\helpform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\helpform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|f:\\users\\alan\\desktop\\c#\\practicabase\\practicabase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\practicabase\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\helpform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\practicabase\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|f:\\users\\alan\\desktop\\c#\\practicabase\\practicabase\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|f:\\users\\alan\\desktop\\c#\\practicabase\\practicabase\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\userbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|f:\\users\\alan\\desktop\\c#\\practicabase\\practicabase\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDC7E50-4034-414D-9F69-CEEDFE1AB7F5}|PracticaBase\\PracticaBase.csproj|solutionrelative:practicabase\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelpForm.Designer.cs",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\HelpForm.Designer.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\HelpForm.Designer.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\HelpForm.Designer.cs",
+              "RelativeToolTip": "PracticaBase\\HelpForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:49:08.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\MainForm.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\MainForm.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\MainForm.cs",
+              "RelativeToolTip": "PracticaBase\\MainForm.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAuwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:37:57.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\MainForm.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\MainForm.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PracticaBase\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T17:37:47.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HelpForm.cs [Design]",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\HelpForm.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\HelpForm.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\HelpForm.cs [Design]",
+              "RelativeToolTip": "PracticaBase\\HelpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T14:46:14.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\Admin.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\Admin.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\Admin.cs",
+              "RelativeToolTip": "PracticaBase\\Admin.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:45:01.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\Student.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\Student.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\Student.cs",
+              "RelativeToolTip": "PracticaBase\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:43:10.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelpForm.cs",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\HelpForm.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\HelpForm.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\HelpForm.cs",
+              "RelativeToolTip": "PracticaBase\\HelpForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T14:49:18.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserBase.cs",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\UserBase.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\UserBase.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\UserBase.cs",
+              "RelativeToolTip": "PracticaBase\\UserBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:40:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "PracticaBase\\UsersRepository.cs",
+              "ToolTip": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\UsersRepository.cs",
+              "RelativeToolTip": "PracticaBase\\UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:29:57.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

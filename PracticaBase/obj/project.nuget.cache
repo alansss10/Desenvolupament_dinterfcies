@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NteDxIZuEfc=",
+  "success": true,
+  "projectFilePath": "F:\\Users\\Alan\\Desktop\\C#\\PracticaBase\\PracticaBase\\PracticaBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alanm\\.nuget\\packages\\system.speech\\10.0.5\\system.speech.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
